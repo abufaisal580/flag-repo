@@ -32,3 +32,8 @@ h1{
 #djflag{
     display: flex;
 }
+.moddi{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
